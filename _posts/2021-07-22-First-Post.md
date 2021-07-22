@@ -1,5 +1,7 @@
 ---
-title: July Has Been Terrible
+title: July-Has-Been-Terrible
+date: 2021-07-22
+
 ---
 
 Hello World!! 
